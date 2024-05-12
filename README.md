@@ -1,4 +1,8 @@
-### Hi there 👋
+¡Hola! Soy Kleyner, un apasionado de la informática y la tecnología con un fuerte interés en el desarrollo de software y la administración de sistemas.
+
+Actualmente, estoy enfocado en mi objetivo de convertirme en un especialista en DevOps. Me emociona la idea de unir la programación y la infraestructura para crear entornos de desarrollo más ágiles, eficientes y confiables. Creo firmemente en la importancia de la integración continua, la entrega continua y la automatización para facilitar la colaboración entre equipos y acelerar el ciclo de vida de desarrollo de software.
+
+Estoy buscando oportunidades para seguir creciendo y aprendiendo. Estoy dispuesto a enfrentar nuevos desafíos y aprender nuevas tecnologías.
 
 <!--
 **kleyner098/kleyner098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
