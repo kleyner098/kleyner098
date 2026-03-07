@@ -1,9 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
+# ¡Hola! Soy Kleyner 👋
 
-Soy un profesional IT con un enfoque híbrido entre la Administración de Sistemas y el Desarrollo de Software, actualmente especializado en el ecosistema Cloud y la cultura DevOps. Mi objetivo es construir puentes sólidos entre el código y la infraestructura mediante la automatización y la eficiencia.
+> **Resumen:** Soy un profesional IT con un enfoque híbrido entre la **Administración de Sistemas** y el **Desarrollo de Software**, actualmente especializado en el ecosistema **Cloud** y la cultura **DevOps**. Mi objetivo es construir puentes sólidos entre el código y la infraestructura mediante la automatización y la eficiencia.
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;Sobre mí</h2>
+
+```yaml
+nombre: Kleyner López Delgado
+ubicación: España
+objetivo_actual: Especialista en Ingeniería DevOps
+formación:
+  [
+    "Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)",
+    "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)",
+  ]
+certificaciones:
+  [
+    "Google Cloud Associate Cloud Engineer (GCP)",
+    "Microsoft Azure Fundamentals (AZ-900)",
+  ]
+
+áreas_de_interés:
+  [
+    "Computación en la Nube (Cloud)",
+    "Infraestructura como Código (IaC)",
+    "Automatización CI/CD",
+    "Administración de Sistemas",
+    "Desarrollo de Software",
+    "Ciberseguridad",
+  ]
+experiencia_técnica:
+  [
+    "Gestión de Infraestructura Cloud",
+    "Desarrollo de Software",
+    "Administración de Redes",
+    "Gestión de Bases de Datos (SQL/NoSQL)",
+  ]
+  
+actualmente_aprendiendo: ["Kubernetes, Terraform, Microservicios"]
+metas_2026:
+  [
+    "Dominar Patrones de Diseño y Algoritmia para código eficiente",
+    "Profundizar en Arquitectura de Software escalable",
+    "Automatizar infraestructuras complejas con IaC",
+  ]
+```
+
+---
 
 <h2> 🚀 &nbsp;Técnologias que uso y domino</h2>
 
@@ -42,7 +90,7 @@ Soy un profesional IT con un enfoque híbrido entre la Administración de Sistem
 ### 🛡️ Networking & System Administration
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="45" height="45" />
+  <img src="https://simpleicons.org/icons/cisco.svg" alt="cisco" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="pfsense" width="45" height="45" />
   <img src="https://img.shields.io/badge/Squid-Proxy-blue?style=for-the-badge&logo=linux&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white" height="30" />
@@ -68,19 +116,23 @@ Soy un profesional IT con un enfoque híbrido entre la Administración de Sistem
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
 </p>
 
-🛠️ Educación y Certificaciones
+## 🛠️ Educación y Certificaciones
 
-- Cloud: Google Cloud Platform (Associate Cloud Engineer) & Microsoft Azure (AZ-900).
-- Sistemas y Redes: Especialista en administración de sistemas informáticos en red (ASIR).
-- Desarrollo: Desarrollo de aplicaciones multiplataforma (DAM).
+## 🎓 Educación y Certificaciones
+
+- ☁️ **Cloud:**
+  - **Google Cloud Associate Cloud Engineer** <a href="TU_LINK"><img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="25" height="25" /></a>
+  - **Microsoft Azure Fundamentals (AZ-900)** <a href="TU_LINK"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="25" height="25" /></a>
+- 🖥️ **Sistemas:** Administración de Sistemas Informáticos en Red (ASIR).
+- 💻 **Desarrollo:** Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 <a href="https://www.credly.com/earner/earned/badge/80c086f9-8efc-41aa-996b-2acfdb18aaab">
 <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="ace" width="45" height="45" /></a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/kleynerlopezdelgado-3488/D469198FF38EE7EB?sharingId=7755C3523873A467">
 <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="az-900" width="45" height="45" />
-<img src="" alt="" width="45" height="45" />
 
+---
 
 <h1 align="center">
   📫 Conecta conmigo
