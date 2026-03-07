@@ -121,7 +121,7 @@ metas_2026:
 ## 🎓 Educación y Certificaciones
 
 - ☁️ **Cloud:**
-  - **Google Cloud Associate Cloud Engineer** <a href="https://www.credly.com/earner/earned/badge/80c086f9-8efc-41aa-996b-2acfdb18aaab"><img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="25" height="25" /></a>
+  - **Google Cloud Associate Cloud Engineer** <a href="https://www.credly.com/badges/80c086f9-8efc-41aa-996b-2acfdb18aaab/public_url"><img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="25" height="25" /></a>
   - **Microsoft Azure Fundamentals (AZ-900)** <a href="https://learn.microsoft.com/api/credentials/share/en-us/kleynerlopezdelgado-3488/D469198FF38EE7EB?sharingId=7755C3523873A467"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="25" height="25" /></a>
 - 🖥️ **Sistemas:** Administración de Sistemas Informáticos en Red (ASIR).
 - 💻 **Desarrollo:** Desarrollo de Aplicaciones Multiplataforma (DAM).
