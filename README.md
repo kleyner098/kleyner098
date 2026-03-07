@@ -116,7 +116,7 @@ metas_2026:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
 </p>
 
-## 🛠️ Educación y Certificaciones
+---
 
 ## 🎓 Educación y Certificaciones
 
@@ -134,17 +134,18 @@ metas_2026:
 
 ---
 
-<h1 align="center">
+<h2>
   📫 Conecta conmigo
-</h1>
+</h2>
 
-<p align="center">
+<p>
 <a href="https://kleyner.me/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/kleynerld/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
